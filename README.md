@@ -1,2 +1,4 @@
-# Caculator-webdev
-The Web Calculator is a web development project aimed at providing users with a convenient and accessible tool for performing various mathematical calculations online. This interactive web application offers a user-friendly interface with a range of mathematical functions, making it suitable for students, professionals.
+<h1 align="center">Calculator App Project ➕ ➖✖️➗</h1>
+
+## Hello Codsoft This is a Level 1, Task 3 - Calculator 
+## I made A basic Calculator App Developed using #HTML , #CSS and #JavaScript.
